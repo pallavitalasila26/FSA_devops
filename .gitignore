@@ -1,2 +1,5 @@
+__pycache__
+.ruby-lsp
+*.ipynb_checkpoints
 .venv
 .vscode

@@ -1,1 +1,0 @@
-{'name': 'Alice', 'age': 22, 'courses': ['Python', 'Data Science', 'Machine Learning'], 'grade': 'A'}
