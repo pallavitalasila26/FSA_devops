@@ -356,3 +356,11 @@ units:
             file: "Lesson_40_demo.ipynb"
           - name: "Activity"
             file: "Lesson_40_activity.ipynb"
+      - number: "41"
+        title: "Machine translation"
+        topics: "Encoder-decoder architecture for machine translation"
+        notebooks:
+          - name: "In-class demo"
+            file: "Lesson_41_demo.ipynb"
+          - name: "Activity"
+            file: "Lesson_41_activity.ipynb"
