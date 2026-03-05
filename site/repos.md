@@ -27,4 +27,4 @@ As the course progresses and projects get more complex, we will start to move aw
 
 10. **Distributed GANN training**: [gperdrizet/GANNs-with-freinds](https://github.com/gperdrizet/GANNs-with-friends). Distributed deep learning demo using DCGANNs to generate realistic images of faces.
 
-11. **Encoder decoder translation models**: [gperdrizet/language-models](https://github.com/gperdrizet/autoencoders). Neural machine translation models using encoder-decoder architecture and LSTM+attention.
+11. **Encoder decoder translation models**: [gperdrizet/language-models](https://github.com/gperdrizet/language-models). Neural machine translation models using encoder-decoder architecture and LSTM+attention.
