@@ -204,4 +204,16 @@ units:
             file: "labeledTrainData.tsv"
           - name: "Unlabeled Testing Dataset"
             file: "unlabeledTestData.tsv"
+      - number: "CEP 5"
+        title: "Course End Project 5"
+        assignment: "CEP 5: Natural language processing"
+        datasets:
+          - name: "Data Dictionary"
+            file: "Data_Dictionary.csv"
+          - name: "Department of Product"
+            file: "Department_of_Product.csv"
+          - name: "Issues"
+            file: "Issues.csv"
+          - name: "Customer Reviews"
+            file: "complaints_banking_2023.csv"
 
