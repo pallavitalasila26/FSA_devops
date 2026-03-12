@@ -6,9 +6,11 @@ permalink: /resources/
 
 ## Capstone resources
 - [Capstone overview]({{ '/resource_pages/capstone_overview.html' | relative_url }})
+- [Project proposal template](https://docs.google.com/document/d/13g--4UALTaH-pz56bHDBALg4JnSz-8mvA7K6vy6w-3c/edit?usp=sharing)
+- [Project proposal example](https://docs.google.com/document/d/10H98gq1HCj6Qp5L-T2mBoaAW-ZCT7BPLhzQcuRW_ipk/edit?usp=sharing)
 
 ## Unit 6: Applications of generative AI
-- [Unit outline]({{ '/resource_pages/gen_ai_outline.html' | relative_url }})
+- [Unit outline]({{ '/resource_pages/genai_applications_outline.html' | relative_url }})
 - [Chatbots demos repository](https://github.com/gperdrizet/llms-demo)
 
 ## Unit 5: Natural language processing
