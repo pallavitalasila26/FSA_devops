@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Unit 6 outline"
-date: 2026-03-09
+title: "Lesson 44 and 45: chatbots demo"
+date: 2026-03-12
 categories: resources
 ---
 
