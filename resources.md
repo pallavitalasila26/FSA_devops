@@ -10,7 +10,7 @@ permalink: /resources/
 - [Project proposal example](https://docs.google.com/document/d/10H98gq1HCj6Qp5L-T2mBoaAW-ZCT7BPLhzQcuRW_ipk/edit?usp=sharing)
 
 ## Unit 6: Applications of generative AI
-- [Unit outline]({{ '/resource_pages/genai_applications_outline.html' | relative_url }})
+- [Unit outline]({{ '/resource_pages/genai_applications_unit_outline.html' | relative_url }})
 - [Chatbots demos repository](https://github.com/gperdrizet/llms-demo)
 
 ## Unit 5: Natural language processing
