@@ -3,7 +3,9 @@
 {
 	// Container definition for a Jekyll development environment
 	"name": "Jekyll",
-	"image": "mcr.microsoft.com/devcontainers/jekyll:2.0",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
 
 	// Add Python 3.12
 	"features": {
