@@ -9,6 +9,7 @@ permalink: /resources/
 
 ## Unit 6: Applications of generative AI
 - [Unit outline]({{ '/resource_pages/gen_ai_outline.html' | relative_url }})
+- [Chatbots demos repository](https://github.com/gperdrizet/llms-demo)
 
 ## Unit 5: Natural language processing
 - [Unit outline]({{ '/resource_pages/nlp_unit_outline.html' | relative_url }})
